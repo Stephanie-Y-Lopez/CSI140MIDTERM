@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(247, 245, 243);
+}
+.nav-bar {
+    background-color: rgb(255, 255, 255);
+    border: 25px solid rgb(247, 245, 243);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap:20%;
+  }
